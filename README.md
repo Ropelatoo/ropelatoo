@@ -1,6 +1,6 @@
 Hi!
 My name is Renan Ropelato.
-I code in Phyton.
+I code in Python.
 
 
 I'm currently learning different languages ​​to see what path I want to follow.
@@ -9,7 +9,7 @@ I'm currently learning different languages ​​to see what path I want to foll
 At the moment I do whatever I think is cool just to train and improve my skills.
 
 
-Languages - Phyton
+Languages - Python
 
 Discord - 220701036929613825
 
