@@ -11,6 +11,6 @@ At the moment I do whatever I think is cool just to train and improve my skills.
 
 Languages - Python
 
-Discord - 220701036929613825
+Discord - ropelatoo | (220701036929613825)
 
 E-mail - r.ropelato@proton.me
