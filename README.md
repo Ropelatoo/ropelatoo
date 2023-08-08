@@ -23,7 +23,7 @@ Novice Developer from Brazil 🇧🇷
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" title="Visual Basic Application" alt="VBS" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" title="Visual Basic for Application" alt="VBS" width="40" height="40"/>&nbsp;
 </div>
 
 
