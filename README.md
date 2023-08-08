@@ -1,16 +1,35 @@
-Hi!
-My name is Renan Ropelato.
-I code in Python.
+<div align="center">
+  <h1>
+    Hello!
+    :wave:
+  </h1>
+</div>
+
+<div id="badges"align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+Novice Developer from Brazil 🇧🇷
+- Studying to become a full-stack developer.
+- Discord: ropelatoo | (220701036929613825)
+- Email: r.ropelato@proton.me
+
+### :hammer_and_wrench: Languages :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" title="Visual Basic Application" alt="VBS" width="40" height="40"/>&nbsp;
+</div>
 
 
-I'm currently learning different languages ​​to see what path I want to follow.
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ropelatoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-At the moment I do whatever I think is cool just to train and improve my skills.
-
-
-Languages - Python
-
-Discord - ropelatoo | (220701036929613825)
-
-E-mail - r.ropelato@proton.me
+</div>
