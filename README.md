@@ -26,12 +26,12 @@ Novice Developer from Brazil 🇧🇷
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" title="Visual Basic for Application" alt="VBS" width="40" height="40"/>&nbsp;
 </div>
 
-
-
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ropelatoo&show_icons=true&theme=tokyonight)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ropelatoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ropelatoo&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropelatoo&layout=compact&theme=tokyonight" />
+</a>
 </div>
+
