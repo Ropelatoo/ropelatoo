@@ -6,14 +6,14 @@
 </div>
 
 <div id="badges"align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/renan-ropelato/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 Novice Developer from Brazil 🇧🇷
 - Studying to become a full-stack developer.
 - Discord: ropelatoo | (220701036929613825)
