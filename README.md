@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me :
-Novice Developer from Brazil 🇧🇷
+My name is Renan Ropelato. Novice Developer from Brazil 🇧🇷
 - Studying to become a full-stack developer.
 - Discord: ropelatoo | (220701036929613825)
 - Email: r.ropelato@proton.me
